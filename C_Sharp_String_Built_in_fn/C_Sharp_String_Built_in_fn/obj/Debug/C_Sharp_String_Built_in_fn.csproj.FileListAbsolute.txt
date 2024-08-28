@@ -1,0 +1,7 @@
+E:\c# repository\C_Sharp_String_Built_in_fn\C_Sharp_String_Built_in_fn\bin\Debug\C_Sharp_String_Built_in_fn.exe.config
+E:\c# repository\C_Sharp_String_Built_in_fn\C_Sharp_String_Built_in_fn\bin\Debug\C_Sharp_String_Built_in_fn.exe
+E:\c# repository\C_Sharp_String_Built_in_fn\C_Sharp_String_Built_in_fn\bin\Debug\C_Sharp_String_Built_in_fn.pdb
+E:\c# repository\C_Sharp_String_Built_in_fn\C_Sharp_String_Built_in_fn\obj\Debug\C_Sharp_String_Built_in_fn.csproj.AssemblyReference.cache
+E:\c# repository\C_Sharp_String_Built_in_fn\C_Sharp_String_Built_in_fn\obj\Debug\C_Sharp_String_Built_in_fn.csproj.CoreCompileInputs.cache
+E:\c# repository\C_Sharp_String_Built_in_fn\C_Sharp_String_Built_in_fn\obj\Debug\C_Sharp_String_Built_in_fn.exe
+E:\c# repository\C_Sharp_String_Built_in_fn\C_Sharp_String_Built_in_fn\obj\Debug\C_Sharp_String_Built_in_fn.pdb
