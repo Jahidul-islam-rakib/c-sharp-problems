@@ -14,9 +14,9 @@ class Program
     {
         // declare and initialization of  2D array
         int[,] array = {
-            { 5, 3, 9, 1 },
-            { 8, 7, 6, 2 },
-            { 4, 10, 12, 11 }
+            { 5, 3, 9, 1 ,8},
+            { 8, 7, 6, 2 ,90},
+            { 4, 10, 12, 11,7 }
         };
 
 
